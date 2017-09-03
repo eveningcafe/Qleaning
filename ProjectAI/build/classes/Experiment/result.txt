@@ -1,0 +1,5 @@
+run 1: Pacman thua! Diem: -470
+run 2: Pacman thua! Diem: -448
+run 3: Pacman thua! Diem: -421
+run 4: Pacman thua! Diem: -437
+run 5: 

@@ -1,0 +1,1 @@
+﻿Learning rate: 0.9 Discount factor: 0.5 Number of run: 1000 LessState: 1

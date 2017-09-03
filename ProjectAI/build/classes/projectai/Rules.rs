@@ -1,0 +1,4 @@
+projectai.ClassicGameRules
+projectai.Rules
+projectai.PacmanRules
+projectai.GhostRules
